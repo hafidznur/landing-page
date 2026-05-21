@@ -1082,13 +1082,12 @@ h1.hero-name {
   letter-spacing: -0.05em;
   line-height: 1;
   color: #f5f5f7;
-  margin-bottom: 100px;
+  margin-bottom: 44px;
 }
 .contact-sub {
   font-size: 17px;
   color: rgba(255, 255, 255, 0.4);
   letter-spacing: -0.02em;
-  margin-bottom: 44px;
   max-width: 400px;
   margin-left: auto;
   margin-right: auto;
